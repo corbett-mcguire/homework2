@@ -16,12 +16,12 @@ the fundamentals of JavaScript covered in the prework.
 ## Instructions
 
 1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Fulfill the listed requirements.
+1.  Change into the cloned directory.
+1.  Fulfill the listed requirements in the prompt.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
+Starter code is available in the prompt located in [`lib/challenge.js`](lib/challenge.js). *Be sure to link the `.js` file before you begin!* You are
 required to turn in your submission by making a pull request on the original
-repository.
+repository. 
 
 **Make one commit for each prompt**
 
